@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "admin",
+    "apellido": "admin",
+    "pass": "$2a$08$y6bgi1kwDXrVkXKq6Nhyguy3rHnF9/UuDT6rFJXyrPTgxfmjJu3a2",
+    "email": "admin@gmail.com",
+    "telefono": 351569842,
+    "rol": "admin"
+  },
+  {
+    "id": 2,
+    "nombre": "user",
+    "apellido": "user",
+    "pass": "$2a$08$zqfs5AdDrSABkHEk/tKYFeIPoySHstg2EXrfPgm0pkzgbieoLVHJ2",
+    "email": "user@gmail.com",
+    "telefono": 351569842,
+    "rol": "usuario"
+  },
+  {
+    "id": 3,
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "pass": "$2a$08$AMx5j.TOGh7Ib38ktV.sY./rkrWpgu2Iln43k2bUa.yvVwusgmQ9u",
+    "email": "juanperez@gmail.com",
+    "telefono": 3516598742,
+    "rol": "usuario"
+  }
+]
